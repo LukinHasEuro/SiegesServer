@@ -1,0 +1,16 @@
+[
+  {
+    "ip": "20.29.40.158",
+    "created": "2022-09-06 22:17:06 +0000",
+    "source": "ceedric_",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "ip": "5.161.117.102",
+    "created": "2022-09-06 22:14:21 +0000",
+    "source": "ceedric_",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

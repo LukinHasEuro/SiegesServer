@@ -1,0 +1,22 @@
+{
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2022-12-08 08:03:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_boots": "2022-12-08 08:03:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:wooded_badlands": "2022-12-08 08:04:15 +0000",
+      "minecraft:desert": "2022-12-08 08:01:44 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3120
+}

@@ -1,0 +1,10 @@
+levels-per-kill: 10
+points-per-kill: 500
+points-to-end: 12000
+respawn-timer: 15
+start-game-commands: []
+end-game-commands: []
+respawn-commands: []
+death-commands: []
+blacklisted-projectiles: 
+  - "ender_pearl"

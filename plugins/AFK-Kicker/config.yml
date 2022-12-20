@@ -1,0 +1,12 @@
+#Time limit
+minutesAFK: 3
+
+#Checks if a player is AFK every x seconds and stores the data
+#More seconds -> Less accuracy less lag
+#Fewer seconds -> More accuracy more lag
+#Find a balance, start trying with fewer seconds
+secondsInterval: 1
+
+# Messages
+kickIn: "&eYou will be kicked on &6%seconds% &eseconds"
+kicked: "&cYou have been kicked for AFK"

@@ -1,0 +1,66 @@
+[
+  {
+    "user": {
+      "type": "other",
+      "name": "CONSOLE"
+    },
+    "time": 1670356712159,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/hV2G2N6DVw"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ceedric_",
+      "uniqueId": "eb5e6429-327c-413c-a064-4e71c7098f0e"
+    },
+    "time": 1670303849039,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/yOmJoDv7QI"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ceedric_",
+      "uniqueId": "eb5e6429-327c-413c-a064-4e71c7098f0e"
+    },
+    "time": 1670295655578,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/hETyY1EbSw"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ceedric_",
+      "uniqueId": "eb5e6429-327c-413c-a064-4e71c7098f0e"
+    },
+    "time": 1670295396588,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/b5GaX2kugB"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ceedric_",
+      "uniqueId": "eb5e6429-327c-413c-a064-4e71c7098f0e"
+    },
+    "time": 1670295384792,
+    "type": "Heap dump",
+    "data": {
+      "type": "file",
+      "value": "plugins/spark/heap-2022-12-06_02.56.20.hprof"
+    }
+  }
+]
