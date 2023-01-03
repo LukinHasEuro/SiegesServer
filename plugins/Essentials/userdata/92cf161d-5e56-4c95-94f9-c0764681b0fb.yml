@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 75.142.136.57
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671925587902
+  login: 1671923648715
+money: '0'
+last-account-name: TgsHalo
+logoutlocation:
+  world: bc236974-3c89-4237-b358-9a0ccd2fcc5d
+  world-name: kazan_active_9
+  x: 9061.300000011921
+  y: 29.0
+  z: -7475.699999988079
+  yaw: -44.436885833740234
+  pitch: 7.704961776733398

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.223.150.59
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672402400547
+  login: 1672402343846
+money: '0'
+last-account-name: LovelyyLivia
+logoutlocation:
+  world: fea80720-b3c3-4155-89d6-6fbc93840b83
+  world-name: cube_active_2
+  x: 1957.618750078692
+  y: 74.0
+  z: -1428.8207287446223
+  yaw: 71.73988342285156
+  pitch: 10.126803398132324

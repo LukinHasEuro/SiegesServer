@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 75.194.69.150
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672533255811
+  login: 1672528439303
+money: '0'
+last-account-name: bedchamp
+logoutlocation:
+  world: de022fa5-570b-4cdf-8f01-aafa15137f89
+  world-name: murmansk_active_2
+  x: 3921.246952274817
+  y: 76.0
+  z: -8174.817199530604
+  yaw: -92.66397094726562
+  pitch: 19.121410369873047

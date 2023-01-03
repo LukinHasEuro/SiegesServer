@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 75.177.240.118
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672518904323
+  login: 1672518749919
+money: '0'
+last-account-name: _LordMcnuggets04
+logoutlocation:
+  world: b4099940-952b-416a-873d-8ad9e3567be1
+  world-name: tython_active_1
+  x: 5732.256179152319
+  y: 130.882011734626
+  z: -4537.431463875919
+  yaw: -97.18939208984375
+  pitch: 14.099859237670898
+past-usernames:
+- KingofMcnuggets4

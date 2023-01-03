@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 45.36.129.154
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672163087966
+  login: 1672163072762
+money: '0'
+last-account-name: syoth
+logoutlocation:
+  world: 981f3421-bccf-4bae-ba88-ce20aafda8df
+  world-name: datblock_active_7
+  x: -8800.0
+  y: 132.0
+  z: -16019.0
+  yaw: 114.67401123046875
+  pitch: 3.868723154067993

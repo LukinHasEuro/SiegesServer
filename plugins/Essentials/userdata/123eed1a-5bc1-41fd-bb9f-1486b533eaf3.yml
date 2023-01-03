@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.81.142.133
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671970675962
+  login: 1671970669854
+money: '0'
+last-account-name: HICHI475
+logoutlocation:
+  world: 0ba37587-c49c-4c4b-8388-9a95ec39fadb
+  world-name: kazan_active_10
+  x: 9057.703712997782
+  y: 63.0
+  z: -7477.699999988079
+  yaw: -9.849977493286133
+  pitch: 14.099987983703613

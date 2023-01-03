@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.45.106.136
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672011461454
+  login: 1672010875895
+money: '0'
+last-account-name: lylo
+logoutlocation:
+  world: 99167629-bb3d-4e70-8ad2-d2cb1ddd4110
+  world-name: cube_active_13
+  x: 1943.300000011921
+  y: 22.159040047199728
+  z: -1435.300000011921
+  yaw: -158.40939331054688
+  pitch: 20.94584846496582

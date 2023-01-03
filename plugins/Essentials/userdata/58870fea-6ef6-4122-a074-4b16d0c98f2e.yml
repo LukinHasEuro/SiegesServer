@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 170.254.116.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672079571316
+  login: 1672079558026
+money: '0'
+last-account-name: Russinho
+logoutlocation:
+  world: 7846783a-1300-4e4f-8437-acb2bc5b36f9
+  world-name: datblock_active_3
+  x: -8799.699999988079
+  y: 132.0
+  z: -16025.187792861472
+  yaw: 93.98471069335938
+  pitch: 8.606250762939453

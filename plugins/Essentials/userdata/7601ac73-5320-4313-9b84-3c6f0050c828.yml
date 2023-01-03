@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.4.205.251
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672424036015
+  login: 1672423827963
+money: '0'
+last-account-name: Fxcilee
+logoutlocation:
+  world: 91f7d961-f4f4-477f-a9d6-a816c45ecf92
+  world-name: tython_active_3
+  x: 5767.411856052765
+  y: 130.05489334703208
+  z: -4540.0
+  yaw: 88.69683837890625
+  pitch: 2.606208562850952

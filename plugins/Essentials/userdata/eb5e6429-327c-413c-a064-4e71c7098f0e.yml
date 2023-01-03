@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 71.150.170.50
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1672516577801
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672693821588
+  login: 1672692449183
+money: '0'
+last-account-name: ceedric_
+logoutlocation:
+  world: b0b6978e-596b-47e5-a908-ffb2cddefeaa
+  world-name: cube_active_8
+  x: 1873.0
+  y: 73.0
+  z: -1424.0
+  yaw: -135.0
+  pitch: 0.0
+lastlocation:
+  world: 397e3f6e-0db3-4b8e-9cab-2524224b4115
+  world-name: tython_active_8
+  x: 5691.763761352333
+  y: 88.88281937146189
+  z: -4572.297903293067
+  yaw: -161.051513671875
+  pitch: 39.38616180419922

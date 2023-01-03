@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 101.184.44.25
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671612468221
+  login: 1671612455019
+money: '0'
+last-account-name: Terruhble
+logoutlocation:
+  world: a5cfc814-f567-463c-8c90-0ec3cfac46a0
+  world-name: world
+  x: 3902.603612182362
+  y: 66.0
+  z: -8211.300000011921
+  yaw: 172.50709533691406
+  pitch: -59.62506866455078

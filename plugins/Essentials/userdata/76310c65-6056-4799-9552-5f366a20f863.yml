@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 76.157.52.124
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672268348948
+  login: 1672268343647
+money: '0'
+last-account-name: Mcdouble123
+logoutlocation:
+  world: ac8a727a-b5cd-45df-a4ef-0910a8279e13
+  world-name: tython_active_4
+  x: 5769.631078581329
+  y: 130.0
+  z: -4539.948038651654
+  yaw: 86.39996337890625
+  pitch: 17.54998016357422

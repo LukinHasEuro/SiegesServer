@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.140.8.206
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672223502662
+  login: 1672223486037
+money: '0'
+last-account-name: MinoCraft
+lastlocation:
+  world: 615ecec2-6f6c-44da-a2a7-3ae7a947a909
+  world-name: kazan_active_1
+  x: 9127.388501769547
+  y: 68.0
+  z: -7460.402855549511
+  yaw: 109.83010864257812
+  pitch: 30.74846649169922
+logoutlocation:
+  world: 615ecec2-6f6c-44da-a2a7-3ae7a947a909
+  world-name: kazan_active_1
+  x: 9156.826865975669
+  y: 66.86858356074451
+  z: -7503.286851142259
+  yaw: 67.939453125
+  pitch: 49.532997131347656

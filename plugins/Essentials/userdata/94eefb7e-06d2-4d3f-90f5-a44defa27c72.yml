@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.191.235.121
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672692730084
+  login: 1672690530142
+money: '0'
+last-account-name: Presios
+logoutlocation:
+  world: 397e3f6e-0db3-4b8e-9cab-2524224b4115
+  world-name: tython_active_8
+  x: 5681.003202584818
+  y: 130.0
+  z: -4556.420067727759
+  yaw: -84.12858581542969
+  pitch: 0.3747718334197998

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 170.246.226.2
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671575121646
+  login: 1671575072842
+money: '0'
+last-account-name: Davisin_
+logoutlocation:
+  world: 30f24281-cc97-43dc-a5d8-a7ba1a6bc950
+  world-name: datblock_active_2
+  x: -8802.209239763879
+  y: 130.0
+  z: -16096.140617768622
+  yaw: -4.647982120513916
+  pitch: 23.498218536376953

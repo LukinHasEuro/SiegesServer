@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 143.159.126.135
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672229091531
+  login: 1672229082129
+money: '0'
+last-account-name: IraqLobster__
+logoutlocation:
+  world: f2fa9932-bde2-4e3b-b143-e6e48a08756d
+  world-name: murmansk_active_1
+  x: 3986.730326526483
+  y: 70.0
+  z: -8167.72702295002
+  yaw: 100.20858001708984
+  pitch: 11.136895179748535

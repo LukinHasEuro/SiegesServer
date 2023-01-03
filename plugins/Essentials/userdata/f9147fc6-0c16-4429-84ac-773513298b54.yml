@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 81.157.168.62
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672423949416
+  login: 1672423826412
+money: '0'
+last-account-name: Kippehz
+logoutlocation:
+  world: 91f7d961-f4f4-477f-a9d6-a816c45ecf92
+  world-name: tython_active_3
+  x: 5765.548540068184
+  y: 130.0
+  z: -4535.068930603321
+  yaw: -142.4871826171875
+  pitch: 41.988792419433594

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.103.132.107
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672702852586
+  login: 1672702624584
+money: '0'
+last-account-name: Spitfire_08
+logoutlocation:
+  world: 2f4e9c09-e697-44bb-8987-34139ceb3efb
+  world-name: murmansk_active_9
+  x: 3948.436031587127
+  y: 77.85066190591893
+  z: -8184.888837543718
+  yaw: 100.95601654052734
+  pitch: 34.600772857666016

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 98.145.236.231
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672521455990
+  login: 1672521366834
+money: '0'
+last-account-name: nhou
+logoutlocation:
+  world: 20b25d98-b407-4cd1-a78b-877a4d401ede
+  world-name: murmansk_active_1
+  x: 3915.699999988079
+  y: 66.0
+  z: -8218.425085005385
+  yaw: -7.6227850914001465
+  pitch: 16.817609786987305

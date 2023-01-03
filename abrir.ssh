@@ -1,3 +1,0 @@
-#!/bin/sh
-
-java -Xms28G -Xmx28G -jar paper-custom-304.jar

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 173.34.81.201
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672383501867
+  login: 1672382506636
+money: '0'
+last-account-name: AmongUsHappyMeal
+logoutlocation:
+  world: 89783f8e-5eb9-4036-9963-67fc4f1d6e0d
+  world-name: murmansk_active_1
+  x: 3986.30586984898
+  y: 70.0
+  z: -8172.300000011921
+  yaw: -27.7977294921875
+  pitch: 20.055583953857422

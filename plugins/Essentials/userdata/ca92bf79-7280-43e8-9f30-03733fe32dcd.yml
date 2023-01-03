@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 174.197.131.76
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672020319576
+  login: 1672019010519
+money: '0'
+last-account-name: KingOfVolarys
+logoutlocation:
+  world: 6c8cc80f-491e-4aeb-9c1a-c621e910f4a6
+  world-name: datblock_active_14
+  x: -8818.129561937514
+  y: 131.0
+  z: -16047.453829149348
+  yaw: 164.50726318359375
+  pitch: 16.230571746826172

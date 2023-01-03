@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 181.46.160.77
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671581921066
+  login: 1671581914356
+money: '0'
+last-account-name: Milutree123
+logoutlocation:
+  world: df45edaf-edf3-48cd-bc91-35980e821868
+  world-name: kazan_active_1
+  x: 9146.0
+  y: 61.0
+  z: -7466.0
+  yaw: 143.28460693359375
+  pitch: 14.083044052124023

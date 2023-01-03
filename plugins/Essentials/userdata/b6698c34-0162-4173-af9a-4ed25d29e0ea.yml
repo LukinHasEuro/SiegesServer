@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 162.235.25.52
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672703033536
+  login: 1672702865784
+money: '0'
+last-account-name: FirePancakes
+logoutlocation:
+  world: 2f4e9c09-e697-44bb-8987-34139ceb3efb
+  world-name: murmansk_active_9
+  x: 3970.300000011921
+  y: 46.80280218824762
+  z: -8192.38336248945
+  yaw: -1.5735994577407837
+  pitch: 66.00017547607422

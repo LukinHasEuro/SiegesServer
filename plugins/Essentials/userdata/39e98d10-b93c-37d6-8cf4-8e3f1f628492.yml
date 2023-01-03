@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 193.29.61.183
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672223802723
+  login: 1672223743862
+money: '0'
+last-account-name: pablitodemon
+logoutlocation:
+  world: 615ecec2-6f6c-44da-a2a7-3ae7a947a909
+  world-name: kazan_active_1
+  x: 9185.632099453378
+  y: 62.370200877005914
+  z: -7459.55085989649
+  yaw: 84.00898742675781
+  pitch: 3.916165590286255

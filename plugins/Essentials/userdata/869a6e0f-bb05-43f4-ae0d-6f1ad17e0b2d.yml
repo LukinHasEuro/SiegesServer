@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.178.227.255
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672089868019
+  login: 1672089862145
+money: '0'
+last-account-name: mxxxz
+logoutlocation:
+  world: 991d4bb4-e507-473e-92d8-645ddfc5cefe
+  world-name: cube_active_4
+  x: 1877.64941428394
+  y: 73.0
+  z: -1425.5817457974686
+  yaw: 11.529840469360352
+  pitch: 14.526156425476074

@@ -10,6 +10,7 @@
 #                    advances, emojis, filters, mentions
 modules:
 - formats
+- filters
 
 join-quit:
   # Manages the cooldown between join-quit messages to not show those

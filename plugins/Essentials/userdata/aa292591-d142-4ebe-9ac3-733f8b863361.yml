@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.194.162.182
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672396176233
+  login: 1672396015326
+money: '0'
+last-account-name: Chromaticc
+logoutlocation:
+  world: 28cfa2b3-caa6-41e4-bc7a-fbe19b700934
+  world-name: murmansk_active_2
+  x: 3979.236939617436
+  y: 70.0
+  z: -8180.328231959503
+  yaw: 177.3701171875
+  pitch: 8.869351387023926

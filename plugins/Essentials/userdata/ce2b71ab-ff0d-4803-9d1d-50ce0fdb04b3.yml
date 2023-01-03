@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 119.160.2.171
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672531501894
+  login: 1672529836093
+money: '0'
+last-account-name: XRoman
+logoutlocation:
+  world: 328f1482-8803-40a6-ae1f-c7d189bc84bf
+  world-name: tython_active_2
+  x: 5770.067502645366
+  y: 130.0
+  z: -4539.863873473547
+  yaw: 82.44320678710938
+  pitch: 16.770666122436523

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.92.189.18
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672693708898
+  login: 1672692250633
+money: '0'
+last-account-name: _Srdjan
+logoutlocation:
+  world: 366a25cb-f43d-450b-9c39-7254d24d6bf6
+  world-name: murmansk_active_8
+  x: 3912.6424632280564
+  y: 66.0
+  z: -8206.467760455149
+  yaw: 86.70703887939453
+  pitch: 16.559825897216797

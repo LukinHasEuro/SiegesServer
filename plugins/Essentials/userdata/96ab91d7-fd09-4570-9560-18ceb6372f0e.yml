@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.145.118.180
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671921565854
+  login: 1671920835960
+money: '0'
+last-account-name: ItsJustRogue
+logoutlocation:
+  world: b4257f1d-6df9-46e9-a17a-910d1923accc
+  world-name: kazan_active_8
+  x: 9140.924085133134
+  y: 61.0
+  z: -7467.008662762644
+  yaw: 80.94999694824219
+  pitch: -4.199997425079346

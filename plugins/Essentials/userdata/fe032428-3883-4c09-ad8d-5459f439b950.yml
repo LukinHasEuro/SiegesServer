@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 174.91.158.173
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672684594175
+  login: 1672684261470
+money: '0'
+last-account-name: AlbanianPvPer
+logoutlocation:
+  world: a9c6c439-53a3-47b9-aa3e-b797e1838f7a
+  world-name: datblock_active_6
+  x: -8842.699999988079
+  y: 127.0
+  z: -16082.300000011921
+  yaw: 85.87490844726562
+  pitch: 35.201045989990234

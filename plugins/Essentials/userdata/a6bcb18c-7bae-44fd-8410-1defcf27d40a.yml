@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.159.155.125
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672166681394
+  login: 1672165887942
+money: '0'
+last-account-name: Aesyr
+logoutlocation:
+  world: f051ec06-ddf5-44ef-96c4-e0e06ac3e5b6
+  world-name: tython_active_7
+  x: 5685.728113703036
+  y: 130.0
+  z: -4547.894645278501
+  yaw: -106.71749877929688
+  pitch: 19.824172973632812

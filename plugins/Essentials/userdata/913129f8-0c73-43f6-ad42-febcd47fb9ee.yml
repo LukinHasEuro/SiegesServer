@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 142.127.7.22
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672070210602
+  login: 1672069990011
+money: '0'
+last-account-name: mcsamj
+logoutlocation:
+  world: bd03938c-5df0-4fa1-8508-42d796e7c310
+  world-name: tython_active_2
+  x: 5761.899588798845
+  y: 130.0
+  z: -4534.191353699802
+  yaw: -146.1859130859375
+  pitch: 22.535625457763672

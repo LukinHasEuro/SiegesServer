@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 204.236.83.10
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671734403250
+  login: 1671734358342
+money: '0'
+last-account-name: pinkshots
+logoutlocation:
+  world: 75c5db97-75d5-4386-9cca-2a665275a41d
+  world-name: cube_active_5
+  x: 1958.0
+  y: 74.0
+  z: -1429.0
+  yaw: 90.0
+  pitch: 0.0

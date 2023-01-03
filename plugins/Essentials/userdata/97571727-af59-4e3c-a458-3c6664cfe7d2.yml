@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 74.130.60.127
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672179896172
+  login: 1672179341392
+money: '0'
+last-account-name: SantasBadElf
+logoutlocation:
+  world: c798e686-7e08-4112-ba07-94424210d2f7
+  world-name: kazan_active_7
+  x: 9058.0
+  y: 63.0
+  z: -7476.0
+  yaw: -40.0
+  pitch: 0.0

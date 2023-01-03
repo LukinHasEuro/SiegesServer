@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 35.134.119.9
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671848200023
+  login: 1671848150604
+money: '0'
+last-account-name: Fizzbruv
+logoutlocation:
+  world: 42ec06ee-7946-46aa-9411-61ddcb7ed138
+  world-name: murmansk_active_4
+  x: 3932.832885182908
+  y: 71.7223305416096
+  z: -8204.364409727723
+  yaw: -179.69993591308594
+  pitch: 20.39999771118164

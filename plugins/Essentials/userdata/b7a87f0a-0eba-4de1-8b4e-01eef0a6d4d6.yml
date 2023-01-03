@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 109.159.27.6
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671624226277
+  login: 1671624159594
+money: '0'
+last-account-name: Eronidas
+logoutlocation:
+  world: 14dd1de4-060e-4351-ab8c-7455aa6a55ba
+  world-name: kazan_active_1
+  x: 9126.232585146518
+  y: 57.0
+  z: -7466.721226949926
+  yaw: -85.00202178955078
+  pitch: 24.310850143432617

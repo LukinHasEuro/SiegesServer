@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.140.8.206
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672223438466
+  login: 1672223312162
+money: '0'
+last-account-name: Misaki
+logoutlocation:
+  world: 615ecec2-6f6c-44da-a2a7-3ae7a947a909
+  world-name: kazan_active_1
+  x: 9195.979363672232
+  y: 64.0
+  z: -7374.181740100506
+  yaw: -150.2193603515625
+  pitch: 65.85029602050781

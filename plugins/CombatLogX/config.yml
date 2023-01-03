@@ -13,9 +13,9 @@ update-checker: true
 
 # These are toggles for the different broadcast messages
 broadcast:
-  on-load: true
-  on-enable: true
-  on-disable: true
+  on-load: false
+  on-enable: false
+  on-disable: false
 
 # This is a list of worlds that CombatLogX will ignore when tagging players.
 # World names are case-sensitive. "world" is not the same as "WoRlD"
@@ -97,7 +97,7 @@ untag-on-death: true
 # Should CombatLogX remove players from combat when their enemy is killed?
 # This also removed combat if the enemy is a creeper and decides to explode.
 # Default: true
-untag-on-enemy-death: true
+untag-on-enemy-death: false
 
 # Should CombatLogX attempt to remove any damage cooldown effects from players during login and teleport events?
 # Default: true

@@ -3,6 +3,9 @@ formats:
   # a random number or custom name
   default:
     prefix: '{#ff9c59}[%siegegame_team_name%] '
+    cooldown:
+      time: 3
+      message: '&cYou cannot send messages for {time} seconds.'
     # the chat format
     # available placeholders: {player}, {prefix}, {suffix}, {message}
     format: '{prefix}{player}&8: {#C0C0C0}{message}'

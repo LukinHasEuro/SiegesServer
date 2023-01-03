@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 45.50.5.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672024243588
+  login: 1672024238334
+money: '0'
+last-account-name: Mujan
+logoutlocation:
+  world: 48f7cc35-6d5d-4ef1-8042-f0c071b5a9ce
+  world-name: cube_active_14
+  x: 1958.0
+  y: 74.0
+  z: -1429.0
+  yaw: 90.0
+  pitch: 0.0

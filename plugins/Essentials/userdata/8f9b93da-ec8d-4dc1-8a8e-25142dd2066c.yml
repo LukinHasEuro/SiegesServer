@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 77.0.130.75
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672693875690
+  login: 1672692668734
+money: '0'
+last-account-name: AnCatt
+logoutlocation:
+  world: b0b6978e-596b-47e5-a908-ffb2cddefeaa
+  world-name: cube_active_8
+  x: 1910.3029157393241
+  y: 73.0
+  z: -1438.5715118819037
+  yaw: 43.09543228149414
+  pitch: 6.792146682739258

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 122.106.250.80
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672222702516
+  login: 1672222437162
+money: '0'
+last-account-name: DeltaOrion
+logoutlocation:
+  world: 615ecec2-6f6c-44da-a2a7-3ae7a947a909
+  world-name: kazan_active_1
+  x: 9124.726844128862
+  y: 64.0
+  z: -7495.217978469166
+  yaw: 80.14483642578125
+  pitch: 18.393125534057617

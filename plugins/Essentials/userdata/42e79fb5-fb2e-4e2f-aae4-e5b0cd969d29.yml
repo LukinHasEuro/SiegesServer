@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.239.86.152
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672399178663
+  login: 1672398791461
+money: '0'
+last-account-name: chubd
+logoutlocation:
+  world: dbf8fa9e-7b1a-4d70-9a78-79a397e8b48e
+  world-name: kazan_active_2
+  x: 9059.700697786859
+  y: 63.0
+  z: -7476.699999988079
+  yaw: -40.0
+  pitch: 0.0

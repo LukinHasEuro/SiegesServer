@@ -8,5 +8,5 @@ minutesAFK: 3
 secondsInterval: 1
 
 # Messages
-kickIn: "&eYou will be kicked on &6%seconds% &eseconds"
+kickIn: "&eYou will be kicked in &6%seconds% &eseconds"
 kicked: "&cYou have been kicked for AFK"

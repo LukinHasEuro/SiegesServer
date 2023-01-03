@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.16.50.125
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672354536185
+  login: 1672354456884
+money: '0'
+last-account-name: Nonstopa
+logoutlocation:
+  world: 4f1b094a-53ef-4848-8175-89900c37a52e
+  world-name: tython_active_10
+  x: 5649.2787710304365
+  y: 131.0
+  z: -4548.698596169819
+  yaw: 4.559521198272705
+  pitch: -7.663876056671143

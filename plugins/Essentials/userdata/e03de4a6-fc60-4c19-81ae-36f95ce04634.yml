@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.124.101.148
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672539118731
+  login: 1672538801180
+money: '0'
+last-account-name: rolyy
+logoutlocation:
+  world: 4a2e386d-e906-4eb0-9cc4-b10bf229a4bc
+  world-name: datblock_active_2
+  x: -8803.208927686966
+  y: 130.0
+  z: -16081.261663830866
+  yaw: 119.4945068359375
+  pitch: 17.92854881286621

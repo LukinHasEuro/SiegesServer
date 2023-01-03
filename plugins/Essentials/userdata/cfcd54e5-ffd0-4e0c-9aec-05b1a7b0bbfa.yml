@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 203.220.34.79
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672589570175
+  login: 1672587392146
+money: '0'
+last-account-name: SquidyHype
+logoutlocation:
+  world: f95dd9dd-5291-4375-bfc3-20e79d92614d
+  world-name: datblock_active_2
+  x: -8804.300000011921
+  y: 132.0
+  z: -16022.300000011921
+  yaw: -80.3287353515625
+  pitch: 17.02625274658203

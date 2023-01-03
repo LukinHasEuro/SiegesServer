@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 96.255.137.68
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671846045008
+  login: 1671845801961
+money: '0'
+last-account-name: imm0rtal0ne
+logoutlocation:
+  world: 9ac692f1-9686-45a1-b22d-87564ee59544
+  world-name: tython_active_3
+  x: 5745.417588925662
+  y: 88.38784607881736
+  z: -4539.28731985476
+  yaw: -31.349477767944336
+  pitch: 72.00031280517578

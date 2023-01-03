@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 47.4.22.215
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672490700969
+  login: 1672489608068
+money: '0'
+last-account-name: Ebrake_
+logoutlocation:
+  world: 31afe966-76ff-4921-9b05-05558129e260
+  world-name: datblock_active_5
+  x: -8802.968666808514
+  y: 130.0
+  z: -16097.46731475458
+  yaw: -53.715301513671875
+  pitch: 10.886319160461426

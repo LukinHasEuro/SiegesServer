@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 72.186.221.201
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672195913611
+  login: 1672195591952
+money: '0'
+last-account-name: CaptainShanks
+logoutlocation:
+  world: ece24249-41d4-4e7a-8bd0-88697fce4cb2
+  world-name: tython_active_9
+  x: 5697.419807496879
+  y: 131.03661189655168
+  z: -4555.453758524065
+  yaw: -72.51107788085938
+  pitch: 8.861068725585938

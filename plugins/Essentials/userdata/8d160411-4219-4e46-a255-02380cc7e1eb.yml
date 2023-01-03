@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 88.234.82.232
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671566664544
+  login: 1671565584669
+money: '0'
+last-account-name: Heirene
+logoutlocation:
+  world: fa6724d3-1cb2-49f5-91ae-3ba76d36a500
+  world-name: datblock_active_1
+  x: -8801.0
+  y: 130.0
+  z: -16097.0
+  yaw: 0.0
+  pitch: 0.0

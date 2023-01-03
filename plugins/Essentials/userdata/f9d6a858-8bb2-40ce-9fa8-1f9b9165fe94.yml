@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.22.171.158
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672538366539
+  login: 1672536944209
+money: '0'
+last-account-name: TitaCrafter
+logoutlocation:
+  world: aeeb0e35-cc4c-4b27-894e-26622d919c5d
+  world-name: cube_active_2
+  x: 1956.999010051196
+  y: 74.0
+  z: -1429.6623705964626
+  yaw: -172.59579467773438
+  pitch: 4.575666427612305

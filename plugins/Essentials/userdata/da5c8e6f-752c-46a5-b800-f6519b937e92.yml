@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 80.80.42.179
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671802570202
+  login: 1671802406725
+money: '0'
+last-account-name: CCloakk
+logoutlocation:
+  world: a5cfc814-f567-463c-8c90-0ec3cfac46a0
+  world-name: world
+  x: 4.946663389633066
+  y: 65.0
+  z: 47.539140762974064
+  yaw: -5.168212890625
+  pitch: 16.55010223388672

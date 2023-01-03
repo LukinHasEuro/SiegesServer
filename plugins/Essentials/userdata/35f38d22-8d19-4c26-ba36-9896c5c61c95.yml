@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.131.38.132
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672700389686
+  login: 1672696698644
+money: '0'
+last-account-name: snun
+logoutlocation:
+  world: 2f4e9c09-e697-44bb-8987-34139ceb3efb
+  world-name: murmansk_active_9
+  x: 3995.0838260107253
+  y: 64.0
+  z: -8168.699999988079
+  yaw: -174.56121826171875
+  pitch: 70.58971405029297

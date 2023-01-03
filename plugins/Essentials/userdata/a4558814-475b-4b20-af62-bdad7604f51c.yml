@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 89.187.177.72
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672625680866
+  login: 1672625653214
+money: '0'
+last-account-name: Guerrilli
+logoutlocation:
+  world: d6657071-6169-4e90-9a6b-36b177249496
+  world-name: kazan_active_5
+  x: 9099.300000011921
+  y: 57.0
+  z: -7473.711541257898
+  yaw: 85.6680679321289
+  pitch: 11.58712100982666

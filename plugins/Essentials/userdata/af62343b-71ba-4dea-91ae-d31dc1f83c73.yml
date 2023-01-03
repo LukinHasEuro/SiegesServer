@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.88.228.190
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672193911167
+  login: 1672191182910
+money: '0'
+last-account-name: Goofeybtw
+logoutlocation:
+  world: 835db643-1489-4365-aaca-35fb18e0caeb
+  world-name: cube_active_9
+  x: 1950.5893327863762
+  y: 74.20000004768372
+  z: -1431.8178530203559
+  yaw: 133.1728973388672
+  pitch: 13.927587509155273

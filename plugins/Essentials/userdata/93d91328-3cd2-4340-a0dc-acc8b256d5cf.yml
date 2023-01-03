@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 76.22.234.109
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672014219945
+  login: 1672012885227
+money: '0'
+last-account-name: CiPx
+logoutlocation:
+  world: b6febaf0-5933-40f0-b00b-ce4f1c7ecdee
+  world-name: murmansk_active_14
+  x: 3913.300000011921
+  y: 51.200000047683716
+  z: -8191.699999988079
+  yaw: 75.19312286376953
+  pitch: 67.15616607666016

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 82.180.37.92
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671829190028
+  login: 1671826862722
+money: '0'
+last-account-name: gimabis
+logoutlocation:
+  world: a78ed63c-470e-4236-8dd5-7eea757a4173
+  world-name: kazan_active_2
+  x: 9147.699999988079
+  y: 52.200000047683716
+  z: -7486.699999988079
+  yaw: 78.87652587890625
+  pitch: 53.864601135253906

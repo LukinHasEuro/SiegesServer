@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 45.24.109.87
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672019630476
+  login: 1672019457419
+money: '0'
+last-account-name: clqne
+logoutlocation:
+  world: 6c8cc80f-491e-4aeb-9c1a-c621e910f4a6
+  world-name: datblock_active_14
+  x: -8800.506300211571
+  y: 132.0
+  z: -16019.956591446942
+  yaw: 153.52438354492188
+  pitch: 12.555161476135254

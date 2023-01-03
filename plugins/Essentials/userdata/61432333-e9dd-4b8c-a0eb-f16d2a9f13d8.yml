@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 136.158.78.156
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672599101507
+  login: 1672598748354
+money: '0'
+last-account-name: ___Allen
+logoutlocation:
+  world: 1718c338-a179-4c0d-a644-d14785eb15ad
+  world-name: cube_active_3
+  x: 1885.6454113433065
+  y: 65.25220334025373
+  z: -1422.24733789644
+  yaw: 27.033945083618164
+  pitch: 35.109718322753906
+past-usernames:
+- NotPhys

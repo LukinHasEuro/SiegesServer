@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 95.239.17.149
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672669453453
+  login: 1672669237700
+money: '0'
+last-account-name: TiCTaCPoWer
+logoutlocation:
+  world: a4e8e509-dc47-4958-9750-dce4aaf01d7b
+  world-name: cube_active_5
+  x: 1886.699999988079
+  y: 64.0
+  z: -1408.300000011921
+  yaw: 139.53660583496094
+  pitch: 12.7122802734375

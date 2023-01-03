@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 173.238.219.232
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672514759770
+  login: 1672514129265
+money: '0'
+last-account-name: Anna897
+logoutlocation:
+  world: 99cbc06e-7256-4c1e-b771-a99bbd056a2e
+  world-name: murmansk_active_7
+  x: 3920.2356093076382
+  y: 67.0
+  z: -8163.8336361839765
+  yaw: -88.52001953125
+  pitch: -1.4999570846557617

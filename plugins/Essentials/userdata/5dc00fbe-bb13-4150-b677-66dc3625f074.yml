@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 71.67.168.132
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672693616296
+  login: 1672691184242
+money: '0'
+last-account-name: alexbearclaw
+logoutlocation:
+  world: 366a25cb-f43d-450b-9c39-7254d24d6bf6
+  world-name: murmansk_active_8
+  x: 3981.5
+  y: 28.0
+  z: -8171.5
+  yaw: -1.9433809518814087
+  pitch: 50.69962692260742

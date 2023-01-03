@@ -63,7 +63,7 @@ placeholder:
 
 combat-timer:
   # Sent to a player when they escape from combat due to the timer running out.
-  expire: "<green>You are no longer in combat.</green>"
+  expire: "<green>You are no longer in combat. Use </green><dark_aqua>/t spawn</dark_aqua><green> to go back to your base.</green>"
 
   # Sent to a player when they escape from combat due to their enemy being killed.
   enemy-death: "<green>You are no longer in combat because your enemy died.</green>"

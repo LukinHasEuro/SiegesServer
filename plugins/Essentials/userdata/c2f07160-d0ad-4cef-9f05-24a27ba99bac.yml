@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.25.15.219
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672693815188
+  login: 1672693599588
+money: '0'
+last-account-name: Valakas_
+logoutlocation:
+  world: 366a25cb-f43d-450b-9c39-7254d24d6bf6
+  world-name: murmansk_active_8
+  x: 3966.5485804815426
+  y: 66.0
+  z: -8174.167385970458
+  yaw: 123.19979858398438
+  pitch: 90.0

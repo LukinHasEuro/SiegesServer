@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 50.47.171.39
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672599865056
+  login: 1672599856254
+money: '0'
+last-account-name: antiSmoke
+logoutlocation:
+  world: 1718c338-a179-4c0d-a644-d14785eb15ad
+  world-name: cube_active_3
+  x: 1958.0
+  y: 74.0
+  z: -1429.0
+  yaw: 81.0261001586914
+  pitch: 6.870640277862549

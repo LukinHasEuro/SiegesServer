@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 157.208.44.232
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672163304416
+  login: 1672162578061
+money: '0'
+last-account-name: scotrian
+logoutlocation:
+  world: 981f3421-bccf-4bae-ba88-ce20aafda8df
+  world-name: datblock_active_7
+  x: -8799.120577273203
+  y: 130.0
+  z: -16092.089905206138
+  yaw: 74.94995880126953
+  pitch: 8.728111267089844

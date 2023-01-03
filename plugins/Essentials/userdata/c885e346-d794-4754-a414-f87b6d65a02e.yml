@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.187.11.246
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672693940240
+  login: 1672691656636
+money: '0'
+last-account-name: Zoooos
+logoutlocation:
+  world: b0b6978e-596b-47e5-a908-ffb2cddefeaa
+  world-name: cube_active_8
+  x: 1957.2003326479085
+  y: 74.0
+  z: -1427.2627244463104
+  yaw: 102.86552429199219
+  pitch: 0.1704077273607254
+past-usernames:
+- KingOfEarthTowny

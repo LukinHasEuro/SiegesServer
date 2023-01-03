@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 70.120.121.142
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672694879918
+  login: 1672694585732
+money: '0'
+last-account-name: toushen
+logoutlocation:
+  world: 96b7a605-79fe-4a0e-8bf9-93ac6edf4477
+  world-name: datblock_active_8
+  x: -8819.699999988079
+  y: 131.87262778097713
+  z: -16030.519808323335
+  yaw: 95.43706512451172
+  pitch: 28.623050689697266

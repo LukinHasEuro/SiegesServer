@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.236.31.170
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672429640141
+  login: 1672429634389
+money: '0'
+last-account-name: Sophomania
+logoutlocation:
+  world: f0412b95-1f6a-4a1e-96dd-51f42a3b10d2
+  world-name: cube_active_3
+  x: 1873.0
+  y: 73.0
+  z: -1424.0
+  yaw: -135.0
+  pitch: 0.0

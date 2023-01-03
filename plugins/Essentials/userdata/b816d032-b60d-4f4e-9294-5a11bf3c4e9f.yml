@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.10.148.100
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672419817913
+  login: 1672419750412
+money: '0'
+last-account-name: mayynophobia
+logoutlocation:
+  world: 91f7d961-f4f4-477f-a9d6-a816c45ecf92
+  world-name: tython_active_3
+  x: 5745.567909396698
+  y: 86.14920319301595
+  z: -4529.686826474041
+  yaw: -145.29774475097656
+  pitch: 42.96885681152344

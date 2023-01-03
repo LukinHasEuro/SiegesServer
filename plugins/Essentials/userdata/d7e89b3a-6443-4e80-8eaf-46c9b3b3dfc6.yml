@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 177.131.77.19
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672522361550
+  login: 1672520448119
+money: '0'
+last-account-name: PacoquitaPvP
+logoutlocation:
+  world: b8c64c30-ae56-4574-b01b-b0198ee98809
+  world-name: cube_active_1
+  x: 1876.300000011921
+  y: 73.0
+  z: -1425.0396949418493
+  yaw: 82.82328796386719
+  pitch: 13.42662525177002

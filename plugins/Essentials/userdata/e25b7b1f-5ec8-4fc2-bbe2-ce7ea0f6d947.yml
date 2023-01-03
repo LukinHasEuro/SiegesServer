@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 119.76.5.126
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672493404850
+  login: 1672493256398
+money: '0'
+last-account-name: Lloydriv_
+logoutlocation:
+  world: 9dc8bdda-a350-4484-b373-b8363e2fdea8
+  world-name: tython_active_5
+  x: 5714.515495406796
+  y: 28.0
+  z: -4545.58155810712
+  yaw: -177.36181640625
+  pitch: 11.40001392364502

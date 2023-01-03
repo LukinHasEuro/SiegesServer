@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 110.44.115.236
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672572499223
+  login: 1672572481519
+money: '0'
+last-account-name: Inscribed_Gaming
+logoutlocation:
+  world: 15bcd2f0-81de-4f6d-ba4f-3b87f2ecb14f
+  world-name: tython_active_1
+  x: 5688.708339233732
+  y: 130.0
+  z: -4551.003992098183
+  yaw: -7.751533031463623
+  pitch: 6.029900074005127

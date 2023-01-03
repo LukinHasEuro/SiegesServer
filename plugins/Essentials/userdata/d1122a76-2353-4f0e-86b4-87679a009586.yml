@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 174.31.232.217
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672624048019
+  login: 1672623835164
+money: '0'
+last-account-name: '54686164657573'
+logoutlocation:
+  world: d6657071-6169-4e90-9a6b-36b177249496
+  world-name: kazan_active_5
+  x: 9421.300000011921
+  y: 1.0
+  z: -7495.300000011921
+  yaw: -177.9491729736328
+  pitch: 34.349918365478516

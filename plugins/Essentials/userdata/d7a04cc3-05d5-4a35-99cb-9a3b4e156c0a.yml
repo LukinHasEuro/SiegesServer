@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 72.230.225.71
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672368811788
+  login: 1672367191492
+money: '0'
+last-account-name: Nostalgion
+logoutlocation:
+  world: a0767acc-4971-4c9e-85b7-e2bd91721279
+  world-name: datblock_active_1
+  x: -8800.04302664663
+  y: 132.0
+  z: -16018.300000011921
+  yaw: -179.398681640625
+  pitch: 8.400003433227539

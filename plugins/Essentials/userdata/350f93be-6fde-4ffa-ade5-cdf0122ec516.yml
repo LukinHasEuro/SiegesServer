@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 122.106.250.80
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1672369094363
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672370381787
+  login: 1672368334110
+money: '0'
+last-account-name: DeltaOrion
+logoutlocation:
+  world: a0767acc-4971-4c9e-85b7-e2bd91721279
+  world-name: datblock_active_1
+  x: -8816.820887300271
+  y: 129.93585800910435
+  z: -16093.206476245723
+  yaw: 62.8876953125
+  pitch: 18.393218994140625
+lastlocation:
+  world: a0767acc-4971-4c9e-85b7-e2bd91721279
+  world-name: datblock_active_1
+  x: -8768.300000011921
+  y: 109.20000004768372
+  z: -16055.413395407779
+  yaw: -150.60781860351562
+  pitch: 43.57313919067383

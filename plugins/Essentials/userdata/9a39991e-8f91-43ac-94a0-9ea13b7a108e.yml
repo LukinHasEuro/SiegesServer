@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.98.248.227
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672487030407
+  login: 1672486617554
+money: '0'
+last-account-name: Windows10Laptop
+logoutlocation:
+  world: 54d113e5-369b-4ed8-a5af-4052b72a1a09
+  world-name: murmansk_active_5
+  x: 3905.300000011921
+  y: 68.20000004768372
+  z: -8214.699999988079
+  yaw: 146.68089294433594
+  pitch: 39.05964660644531

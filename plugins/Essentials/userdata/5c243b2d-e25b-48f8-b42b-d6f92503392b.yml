@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.129.106.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672011515088
+  login: 1672010909256
+money: '0'
+last-account-name: youngmoneyskytra
+logoutlocation:
+  world: 99167629-bb3d-4e70-8ad2-d2cb1ddd4110
+  world-name: cube_active_13
+  x: 1939.7505496029887
+  y: 56.9206792650545
+  z: -1392.6509884939971
+  yaw: -101.74212646484375
+  pitch: 59.836097717285156

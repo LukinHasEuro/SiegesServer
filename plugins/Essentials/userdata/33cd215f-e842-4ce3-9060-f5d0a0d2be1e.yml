@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 74.105.50.128
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672530394794
+  login: 1672528832203
+money: '0'
+last-account-name: EnemyofME
+logoutlocation:
+  world: 328f1482-8803-40a6-ae1f-c7d189bc84bf
+  world-name: tython_active_2
+  x: 5689.4139954260945
+  y: 130.73584067272827
+  z: -4535.964940140775
+  yaw: 1.906494140625
+  pitch: 18.4415225982666
+past-usernames:
+- DiscordKitten64

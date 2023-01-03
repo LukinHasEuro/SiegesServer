@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 203.94.49.73
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672203867854
+  login: 1672203708303
+money: '0'
+last-account-name: SimplyLohi
+logoutlocation:
+  world: 511af8ad-8eff-4c3a-8cb8-e552f2169b64
+  world-name: world
+  x: -144.92360027504247
+  y: 81.0
+  z: -730.8807611589045
+  yaw: 160.9510955810547
+  pitch: 5.850001811981201

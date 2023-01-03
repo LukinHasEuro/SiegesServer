@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 172.58.227.34
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672342250957
+  login: 1672340218805
+money: '0'
+last-account-name: xWakanda
+logoutlocation:
+  world: 7dd57562-c01f-4192-85b0-7f8db647be63
+  world-name: cube_active_9
+  x: 1877.4196910491605
+  y: 73.0
+  z: -1430.5306585316282
+  yaw: -9.705678939819336
+  pitch: 55.73896026611328

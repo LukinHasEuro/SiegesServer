@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 66.226.110.219
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672351364854
+  login: 1672350846300
+money: '0'
+last-account-name: FSM_Terror
+logoutlocation:
+  world: 6e4db8d6-3ad3-43f4-a699-627f50526ea9
+  world-name: murmansk_active_10
+  x: 3955.699999988079
+  y: 62.200000047683716
+  z: -8186.699999988079
+  yaw: 41.615394592285156
+  pitch: 9.55827808380127

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 50.24.177.62
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672698943188
+  login: 1672698757691
+money: '0'
+last-account-name: Mecass
+logoutlocation:
+  world: 2f4e9c09-e697-44bb-8987-34139ceb3efb
+  world-name: murmansk_active_9
+  x: 3970.300000011921
+  y: 37.05925430541039
+  z: -8205.790764937108
+  yaw: -108.71136474609375
+  pitch: -46.2404899597168

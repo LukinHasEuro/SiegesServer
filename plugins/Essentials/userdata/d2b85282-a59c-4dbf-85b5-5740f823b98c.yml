@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.233.59.156
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672011443100
+  login: 1672011000158
+money: '0'
+last-account-name: Flgment
+logoutlocation:
+  world: 99167629-bb3d-4e70-8ad2-d2cb1ddd4110
+  world-name: cube_active_13
+  x: 1942.300000011921
+  y: 24.847012498191326
+  z: -1437.3202659658339
+  yaw: -6.60455322265625
+  pitch: 89.16682434082031

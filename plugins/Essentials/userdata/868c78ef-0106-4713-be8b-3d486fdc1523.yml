@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.3.251.190
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672444250136
+  login: 1672444212483
+money: '0'
+last-account-name: praamzius
+logoutlocation:
+  world: c306188f-0681-4934-9382-7afa619cbe0f
+  world-name: kazan_active_4
+  x: 9142.156428347354
+  y: 61.0
+  z: -7478.825985779536
+  yaw: 81.96875
+  pitch: 7.5127644538879395

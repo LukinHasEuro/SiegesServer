@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 78.87.181.225
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672318201327
+  login: 1672317892223
+money: '0'
+last-account-name: thanis0077
+logoutlocation:
+  world: 28105b9f-eaa9-44ea-be56-48548e9307a6
+  world-name: kazan_active_7
+  x: 9269.553025820172
+  y: 64.0
+  z: -7511.373613811815
+  yaw: -43.099918365478516
+  pitch: 10.350025177001953

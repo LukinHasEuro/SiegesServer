@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 71.88.33.177
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671923987126
+  login: 1671923576335
+money: '0'
+last-account-name: olpx
+logoutlocation:
+  world: eca58c6a-1af4-412b-b23f-84145e96f227
+  world-name: tython_active_8
+  x: 5760.409999996424
+  y: 97.20360286445766
+  z: -4540.409999996424
+  yaw: -121.15779876708984
+  pitch: 58.422218322753906

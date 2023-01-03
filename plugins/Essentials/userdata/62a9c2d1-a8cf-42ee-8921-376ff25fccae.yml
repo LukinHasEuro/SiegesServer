@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 87.50.53.184
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672660428718
+  login: 1672660388666
+money: '0'
+last-account-name: Thorgny
+logoutlocation:
+  world: 81a48dfc-8b39-4300-81a9-046975e1cc0b
+  world-name: tython_active_5
+  x: 5740.299528853512
+  y: 130.0
+  z: -4540.495000664212
+  yaw: 93.95339965820312
+  pitch: 50.10454559326172

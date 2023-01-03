@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 31.206.200.15
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671926541171
+  login: 1671925030656
+money: '0'
+last-account-name: Kaisxrr
+logoutlocation:
+  world: bb9f14fb-ca23-49ab-9617-12d6d7c18ed4
+  world-name: cube_active_9
+  x: 1885.699999988079
+  y: 54.0
+  z: -1413.300000011921
+  yaw: -145.01885986328125
+  pitch: -53.985862731933594

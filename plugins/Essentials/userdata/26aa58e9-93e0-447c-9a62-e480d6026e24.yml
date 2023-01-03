@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 99.234.199.244
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672456793356
+  login: 1672456786854
+money: '0'
+last-account-name: Tqnooki
+logoutlocation:
+  world: 54d113e5-369b-4ed8-a5af-4052b72a1a09
+  world-name: murmansk_active_5
+  x: 3900.0
+  y: 66.0
+  z: -8211.0
+  yaw: -90.0
+  pitch: 0.0

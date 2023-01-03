@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 73.10.21.60
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672512991499
+  login: 1672512979895
+money: '0'
+last-account-name: Senshiy
+logoutlocation:
+  world: eaf898a1-0bdd-4ae3-bd8c-6e48af6f6ed1
+  world-name: cube_active_6
+  x: 1872.4033439987552
+  y: 73.0
+  z: -1423.9575220022246
+  yaw: -141.62522888183594
+  pitch: 4.787258625030518

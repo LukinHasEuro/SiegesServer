@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 149.36.3.241
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672170685175
+  login: 1672170683937
+money: '0'
+last-account-name: youngmoneyskyrta
+logoutlocation:
+  world: c798e686-7e08-4112-ba07-94424210d2f7
+  world-name: kazan_active_7
+  x: 9146.0
+  y: 61.0
+  z: -7466.0
+  yaw: 96.02584838867188
+  pitch: 2.7816896438598633

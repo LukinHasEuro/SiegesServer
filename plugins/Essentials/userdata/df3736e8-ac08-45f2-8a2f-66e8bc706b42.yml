@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.168.31.227
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671813913884
+  login: 1671811747646
+money: '0'
+last-account-name: MaybeNik
+logoutlocation:
+  world: f3435b4c-7a1f-449a-9c0a-455ed1632dc2
+  world-name: datblock_active_1
+  x: -8802.52589693136
+  y: 130.0
+  z: -16089.401943913163
+  yaw: -73.27227783203125
+  pitch: 14.416741371154785

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 74.140.64.234
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672693194046
+  login: 1672691846287
+money: '0'
+last-account-name: MortySmith123
+logoutlocation:
+  world: 366a25cb-f43d-450b-9c39-7254d24d6bf6
+  world-name: murmansk_active_8
+  x: 3902.699999988079
+  y: 66.0
+  z: -8212.808576694588
+  yaw: -17.968936920166016
+  pitch: 12.472365379333496

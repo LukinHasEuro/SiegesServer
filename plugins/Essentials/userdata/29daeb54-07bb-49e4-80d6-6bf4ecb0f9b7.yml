@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 104.7.144.107
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672254072351
+  login: 1672253590762
+money: '0'
+last-account-name: paspadu
+logoutlocation:
+  world: ac8a727a-b5cd-45df-a4ef-0910a8279e13
+  world-name: tython_active_4
+  x: 5681.0
+  y: 130.0
+  z: -4556.0
+  yaw: -90.0
+  pitch: 0.0

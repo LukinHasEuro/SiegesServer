@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 87.64.111.45
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672589857178
+  login: 1672588351546
+money: '0'
+last-account-name: GroeneMelk4_4
+logoutlocation:
+  world: f95dd9dd-5291-4375-bfc3-20e79d92614d
+  world-name: datblock_active_2
+  x: -8813.300000011921
+  y: 22.0
+  z: -16040.457542117034
+  yaw: -129.7750244140625
+  pitch: -43.1264762878418

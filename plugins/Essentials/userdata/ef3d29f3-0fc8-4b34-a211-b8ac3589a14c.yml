@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 176.205.89.223
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672671959348
+  login: 1672669535500
+money: '0'
+last-account-name: entuarl
+logoutlocation:
+  world: 99be1302-e098-4c1c-ae27-ad107cfd969d
+  world-name: datblock_active_5
+  x: -8869.38992228843
+  y: 121.20000004768372
+  z: -16074.699999988079
+  yaw: -172.60617065429688
+  pitch: 16.837146759033203
+past-usernames:
+- lartuenyobgib

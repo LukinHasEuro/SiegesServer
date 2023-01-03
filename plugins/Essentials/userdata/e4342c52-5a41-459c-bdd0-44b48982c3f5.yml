@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.169.74.34
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671841519125
+  login: 1671841433389
+money: '0'
+last-account-name: ssniperprincess
+logoutlocation:
+  world: 2ac7aa2b-cff3-40e6-8384-81fca0489e9e
+  world-name: murmansk_active_3
+  x: 3915.4446151932407
+  y: 66.0
+  z: -8213.353638042467
+  yaw: 10.349922180175781
+  pitch: 15.899996757507324

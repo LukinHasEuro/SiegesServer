@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 74.102.221.102
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672110651590
+  login: 1672110600559
+money: '0'
+last-account-name: UghBraces
+logoutlocation:
+  world: 6d578bae-7795-4702-bfbf-fbecfe3c3282
+  world-name: cube_active_5
+  x: 1950.32978416998
+  y: 74.0
+  z: -1423.9272467421658
+  yaw: 119.9534912109375
+  pitch: 2.0548911094665527

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.192.71.67
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672597737547
+  login: 1672596178031
+money: '0'
+last-account-name: BepsiBola
+logoutlocation:
+  world: 0ca17159-f9d0-4676-9232-0f4dc559c809
+  world-name: murmansk_active_3
+  x: 3913.300000011921
+  y: 49.47834293784915
+  z: -8173.300000011921
+  yaw: -147.83663940429688
+  pitch: 44.506492614746094

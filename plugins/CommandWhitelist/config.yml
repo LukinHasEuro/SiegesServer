@@ -17,21 +17,24 @@ messages:
 # This requires server restart to take effect.
 use_protocollib: false
 groups:
-  example:
-    commands:
-    - example
-    subcommands: []
-    custom_command_denied_message: discord.ceedric.com
   default:
     commands:
-    - t spawn
+    - t
     - resources
     - rally
-    - here
     - combattimer
     - ct
+    - hub
+    - msg
     subcommands: []
   moderator:
     commands:
-    - ban
+    - vanish
+    - matrix
+    - tpo
+    - tpohere
+    - tppos
+    - v
+    - gmsp
+    - gms
     subcommands: []

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 123.193.191.122
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671798238384
+  login: 1671798111462
+money: '0'
+last-account-name: Yea_shuw
+logoutlocation:
+  world: c3c356ad-7715-4556-8ca2-a3d547b13170
+  world-name: kazan_active_6
+  x: 9281.27678006644
+  y: 64.0
+  z: -7391.687599225657
+  yaw: -144.2191162109375
+  pitch: 1.4467698335647583

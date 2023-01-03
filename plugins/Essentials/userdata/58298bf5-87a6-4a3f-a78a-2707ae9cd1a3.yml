@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 97.81.54.57
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671917179961
+  login: 1671915660226
+money: '0'
+last-account-name: KrabKake
+logoutlocation:
+  world: d8fdf18f-5ad6-41fc-a8b5-fe7e9d2d862b
+  world-name: murmansk_active_8
+  x: 3900.0
+  y: 66.0
+  z: -8211.0
+  yaw: -90.0
+  pitch: 0.0

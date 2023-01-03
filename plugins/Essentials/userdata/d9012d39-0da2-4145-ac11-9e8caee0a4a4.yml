@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 68.0.191.103
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672562949033
+  login: 1672562790979
+money: '0'
+last-account-name: Linten
+logoutlocation:
+  world: ddb98909-7dff-4fd8-b091-b5ed1628bb77
+  world-name: kazan_active_1
+  x: 9313.878802656634
+  y: 68.0
+  z: -7410.107514614292
+  yaw: 137.50039672851562
+  pitch: 8.999406814575195

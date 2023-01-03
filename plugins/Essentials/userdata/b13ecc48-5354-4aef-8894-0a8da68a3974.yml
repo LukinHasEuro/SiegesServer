@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 119.18.0.103
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671614562932
+  login: 1671614532184
+money: '0'
+last-account-name: Queened
+logoutlocation:
+  world: 2184e79a-0b31-4a67-a4f2-6f8387c48c57
+  world-name: cube_active_1
+  x: 1936.0992451297127
+  y: 74.0
+  z: -1434.6727153016816
+  yaw: 48.45279312133789
+  pitch: 17.124515533447266

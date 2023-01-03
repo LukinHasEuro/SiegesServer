@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 71.179.207.69
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672686134349
+  login: 1672685867444
+money: '0'
+last-account-name: Xinhau
+logoutlocation:
+  world: 3dee21f0-0b89-4be5-8c34-193455cb5195
+  world-name: kazan_active_7
+  x: 9116.42629673922
+  y: 43.200000047683716
+  z: -7488.300000011921
+  yaw: -175.64959716796875
+  pitch: 8.101724624633789

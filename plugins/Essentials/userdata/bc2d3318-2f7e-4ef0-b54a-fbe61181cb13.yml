@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 49.144.169.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1672684064624
+  login: 1672678837449
+money: '0'
+last-account-name: bardrag0306
+logoutlocation:
+  world: 96e3ee9f-287f-4fdc-ac2f-a29da2c8bc19
+  world-name: cube_active_6
+  x: 1882.699999988079
+  y: 73.0
+  z: -1429.8069614301307
+  yaw: -88.15351867675781
+  pitch: 20.612442016601562
+lastlocation:
+  world: f95dd9dd-5291-4375-bfc3-20e79d92614d
+  world-name: datblock_active_2
+  x: -8804.2772063277
+  y: 132.0
+  z: -16024.871713617606
+  yaw: 89.40589904785156
+  pitch: 18.809532165527344

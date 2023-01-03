@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 86.141.160.210
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1671716698201
+  login: 1671716683798
+money: '0'
+last-account-name: Olivrrpb
+logoutlocation:
+  world: ceb723ec-2d44-4c3a-8749-3f35848020c0
+  world-name: murmansk_active_4
+  x: 3969.781789596985
+  y: 70.0
+  z: -8160.86406554486
+  yaw: 110.62191772460938
+  pitch: -18.070030212402344
