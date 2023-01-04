@@ -1,7 +1,6 @@
 updateSpawnsToNewSpawnsConfig: true
 updateJailsToNewJailsConfig: true
 warnMetrics: true
-movemotdToFile: true
 moverulesToFile: true
 sanitizeAllUserFilenames: true
 updateUsersPowerToolsFormat: true
@@ -12,4 +11,3 @@ updateUsersIgnoreListUUID: true
 updateUsersStupidLegacyPathNames: true
 updateUsersMailList: true
 updatePurgeBrokenNpcAccounts: true
-newUidCacheBuilt: true
