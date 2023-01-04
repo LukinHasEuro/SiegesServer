@@ -1,229 +1,229 @@
 maps:
-  tython:
-    worldname: 'tython'
-    world-display-name: 'Siege of Tython'
-    super-items:
-      - "sharp-6"
-      - "kb-stick"
-    defaultspawn:
-      x: 5726
-      y: 143
-      z: -4577
-    worldborder:
-      x1: 5807
-      y1: 100000
-      z1: -4640
-      x2: 5647
-      y2: -64
-      z2: -4481
-    teams:
-      volarys:
-        name: 'Volarys'
-        color: '#694200'
-        town: 'Ayrinthel'
-        safe-spawn:
-          x: 5772
-          y: 130
-          z: -4540
-          yaw: 90
-          pitch: 0
-        spawn-area:
-          x1: 5769
-          y1: 129
-          z1: -4542
-          x2: 5773
-          y2: 133
-          z2: -4538
-        territory:
-          - "5773, -4579, 5744, -4561"
-          - "5773, -4561, 5760, -4518"
-          - "5760, -4518, 5744, -4544"
-      american_union:
-        name: 'American Union'
-        color: '#420699'
-        safe-spawn:
-          x: 5681
-          y: 130
-          z: -4556
-          yaw: -90
-          pitch: 0
-        spawn-area:
-          x1: 5683
-          y1: 129
-          z1: -4558
-          x2: 5680
-          y2: 132
-          z2: -4555
-        territory:
-          - "5695, -4577, 5679, -4528"
-  murmansk:
-    worldname: 'murmansk'
-    world-display-name: 'Siege of Murmansk'
-    super-items:
-      - "sharp-6"
-      - "kb-stick"
-    defaultspawn:
-      x: 3957
-      y: 70
-      z: -8148
-    worldborder:
-      x1: 4040
-      y1: 100000
-      z1: -8099
-      x2: 3711
-      y2: -64
-      z2: -8321
-    teams:
-      ayrinthel:
-        name: 'Ayrinthel'
-        color: '#694200'
-        town: 'Ayrinthel'
-        safe-spawn:
-          x: 3987
-          y: 70
-          z: -8167
-          yaw: 90
-          pitch: 0
-        spawn-area:
-          x1: 3988
-          y1: 72
-          z1: -8166
-          x2: 3985
-          y2: 69
-          z2: -8171
-        territory:
-          - "3968, -8160, 3999, -8208"
-      murmansk:
-        name: 'Murmansk'
-        color: '#420699'
-        town: 'Murmansk'
-        safe-spawn:
-          x: 3900
-          y: 66
-          z: -8211
-          yaw: -90
-          pitch: 0
-        spawn-area:
-          x1: 3902
-          y1: 65
-          z1: -8214
-          x2: 3899
-          y2: 70
-          z2: -8210
-        territory:
-          - "3919, -8318, 3872, -8143"
-  cube:
-    worldname: 'cube'
-    world-display-name: 'Siege of Cube'
-    super-items:
-      - "sharp-6"
-      - "kb-stick"
-    defaultspawn:
-      x: 1923
-      y: 77
-      z: -1407
-    worldborder:
-      x1: 2071
-      y1: 100000
-      z1: -1615
-      x2: 1528
-      y2: -64
-      z2: -915
-    teams:
-      iroquois:
-        name: 'Iroquois'
-        color: '#694200'
-        town: 'Iroquois'
-        safe-spawn:
-          x: 1958
-          y: 74
-          z: -1429
-          yaw: 90
-          pitch: 0
-        spawn-area:
-          x1: 1956
-          y1: 73
-          z1: -1431
-          x2: 1959
-          y2: 76
-          z2: -1426
-        territory:
-          - "1963, -1412, 1937, -1440"
-      cube:
-        name: 'Cube'
-        color: '#420699'
-        town: 'Cube'
-        safe-spawn:
-          x: 1873
-          y: 73
-          z: -1424
-          yaw: -135
-          pitch: 0
-        spawn-area:
-          x1: 1875
-          y1: 72
-          z1: -1427
-          x2: 1871
-          y2: 76
-          z2: -1423
-        territory:
-          - "1887, -1440, 1814, -1360"
-  kazan:
-    worldname: 'kazan'
-    world-display-name: 'Siege of Kazan'
-    super-items:
-      - "sharp-6"
-      - "kb-stick"
-    defaultspawn:
-      x: 9090
-      y: 65
-      z: -7497
-    worldborder:
-      x1: 9474
-      y1: 100000
-      z1: -7650
-      x2: 8993
-      y2: -64
-      z2: -7201
-    teams:
-      iroquois_2:
-        name: 'Iroquois'
-        color: '#694200'
-        town: 'RussiaSucks'
-        safe-spawn:
-          x: 9058
-          y: 63
-          z: -7476
-          yaw: -40
-          pitch: 0
-        spawn-area:
-          x1: 9060
-          y1: 62
-          z1: -7474
-          x2: 9057
-          y2: 66
-          z2: -7478
-        territory:
-          - "9071, -7454, 9054, -7481"
-      russia:
-        name: 'Russia'
-        color: '#420699'
-        town: 'Kazan'
-        safe-spawn:
-          x: 9146
-          y: 61
-          z: -7466
-          yaw: 100
-          pitch: 0
-        spawn-area:
-          x1: 9144
-          y1: 60
-          z1: -7469
-          x2: 9147
-          y2: 64
-          z2: -7466
-        territory:
-          - "9136, -7616, 9185, -7365"
+  #tython:
+  #  worldname: 'tython'
+  #  world-display-name: 'Siege of Tython'
+  #  super-items:
+  #    - "sharp-6"
+  #    - "kb-stick"
+  #  defaultspawn:
+  #    x: 5726
+  #    y: 143
+  #    z: -4577
+  #  worldborder:
+  #    x1: 5807
+  #    y1: 100000
+  #    z1: -4640
+  #    x2: 5647
+  #    y2: -64
+  #    z2: -4481
+  #  teams:
+  #    volarys:
+  #      name: 'Volarys'
+  #      color: '#694200'
+  #      town: 'Ayrinthel'
+  #      safe-spawn:
+  #        x: 5772
+  #        y: 130
+  #        z: -4540
+  #        yaw: 90
+  #        pitch: 0
+  #      spawn-area:
+  #        x1: 5769
+  #        y1: 129
+  #        z1: -4542
+  #        x2: 5773
+  #        y2: 133
+  #        z2: -4538
+  #      territory:
+  #        - "5773, -4579, 5744, -4561"
+  #        - "5773, -4561, 5760, -4518"
+  #        - "5760, -4518, 5744, -4544"
+  #    american_union:
+  #      name: 'American Union'
+  #      color: '#420699'
+  #      safe-spawn:
+  #        x: 5681
+  #        y: 130
+  #        z: -4556
+  #        yaw: -90
+  #        pitch: 0
+  #      spawn-area:
+  #        x1: 5683
+  #        y1: 129
+  #        z1: -4558
+  #        x2: 5680
+  #        y2: 132
+  #        z2: -4555
+  #      territory:
+  #        - "5695, -4577, 5679, -4528"
+  #murmansk:
+  #  worldname: 'murmansk'
+  #  world-display-name: 'Siege of Murmansk'
+  #  super-items:
+  #    - "sharp-6"
+  #    - "kb-stick"
+  #  defaultspawn:
+  #    x: 3957
+  #    y: 70
+  #    z: -8148
+  #  worldborder:
+  #    x1: 4040
+  #    y1: 100000
+  #    z1: -8099
+  #    x2: 3711
+  #    y2: -64
+  #    z2: -8321
+  #  teams:
+  #    ayrinthel:
+  #      name: 'Ayrinthel'
+  #      color: '#694200'
+  #      town: 'Ayrinthel'
+  #      safe-spawn:
+  #        x: 3987
+  #        y: 70
+  #        z: -8167
+  #        yaw: 90
+  #        pitch: 0
+  #      spawn-area:
+  #        x1: 3988
+  #        y1: 72
+  #        z1: -8166
+  #        x2: 3985
+  #        y2: 69
+  #        z2: -8171
+  #      territory:
+  #        - "3968, -8160, 3999, -8208"
+  #    murmansk:
+  #      name: 'Murmansk'
+  #      color: '#420699'
+  #      town: 'Murmansk'
+  #      safe-spawn:
+  #        x: 3900
+  #        y: 66
+  #        z: -8211
+  #        yaw: -90
+  #        pitch: 0
+  #      spawn-area:
+  #        x1: 3902
+  #        y1: 65
+  #        z1: -8214
+  #        x2: 3899
+  #        y2: 70
+  #        z2: -8210
+  #      territory:
+  #        - "3919, -8318, 3872, -8143"
+  #cube:
+  #  worldname: 'cube'
+  #  world-display-name: 'Siege of Cube'
+  #  super-items:
+  #    - "sharp-6"
+  #    - "kb-stick"
+  #  defaultspawn:
+  #    x: 1923
+  #    y: 77
+  #    z: -1407
+  #  worldborder:
+  #    x1: 2071
+  #    y1: 100000
+  #    z1: -1615
+  #    x2: 1528
+  #    y2: -64
+  #    z2: -915
+  #  teams:
+  #    iroquois:
+  #      name: 'Iroquois'
+  #      color: '#694200'
+  #      town: 'Iroquois'
+  #      safe-spawn:
+  #        x: 1958
+  #        y: 74
+  #        z: -1429
+  #        yaw: 90
+  #        pitch: 0
+  #      spawn-area:
+  #        x1: 1956
+  #        y1: 73
+  #        z1: -1431
+  #        x2: 1959
+  #        y2: 76
+  #        z2: -1426
+  #      territory:
+  #        - "1963, -1412, 1937, -1440"
+  #    cube:
+  #      name: 'Cube'
+  #      color: '#420699'
+  #      town: 'Cube'
+  #      safe-spawn:
+  #        x: 1873
+  #        y: 73
+  #        z: -1424
+  #        yaw: -135
+  #        pitch: 0
+  #      spawn-area:
+  #        x1: 1875
+  #        y1: 72
+  #        z1: -1427
+  #        x2: 1871
+  #        y2: 76
+  #        z2: -1423
+  #      territory:
+  #        - "1887, -1440, 1814, -1360"
+  #kazan:
+  #  worldname: 'kazan'
+  #  world-display-name: 'Siege of Kazan'
+  #  super-items:
+  #    - "sharp-6"
+  #    - "kb-stick"
+  #  defaultspawn:
+  #    x: 9090
+  #    y: 65
+  #    z: -7497
+  #  worldborder:
+  #    x1: 9474
+  #    y1: 100000
+  #    z1: -7650
+  #    x2: 8993
+  #    y2: -64
+  #    z2: -7201
+  #  teams:
+  #    iroquois_2:
+  #      name: 'Iroquois'
+  #      color: '#694200'
+  #      town: 'RussiaSucks'
+  #      safe-spawn:
+  #        x: 9058
+  #        y: 63
+  #        z: -7476
+  #        yaw: -40
+  #        pitch: 0
+  #      spawn-area:
+  #        x1: 9060
+  #        y1: 62
+  #        z1: -7474
+  #        x2: 9057
+  #        y2: 66
+  #        z2: -7478
+  #      territory:
+  #        - "9071, -7454, 9054, -7481"
+  #    russia:
+  #      name: 'Russia'
+  #      color: '#420699'
+  #      town: 'Kazan'
+  #      safe-spawn:
+  #        x: 9146
+  #        y: 61
+  #        z: -7466
+  #        yaw: 100
+  #        pitch: 0
+  #      spawn-area:
+  #        x1: 9144
+  #        y1: 60
+  #        z1: -7469
+  #        x2: 9147
+  #        y2: 64
+  #        z2: -7466
+  #      territory:
+  #        - "9136, -7616, 9185, -7365"
   datblock:
     worldname: 'datblock'
     world-display-name: 'Siege of Datblock'
