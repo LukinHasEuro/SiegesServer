@@ -4,6 +4,8 @@ shop:
     slot: 0
     price: 0
     amount: 1
+    maps:
+      - "all"
     display-name: '&bDiamond Sword'
     includes-item: 'true'
     includes-item-exact: 'true'
@@ -21,6 +23,8 @@ shop:
     slot: 1
     amount: 1
     price: 0
+    maps:
+      - "all"
     display-name: '&bDiamond Helmet'
     includes-item: 'true'
     includes-item-exact: 'true'
@@ -36,6 +40,8 @@ shop:
     slot: 2
     amount: 1
     price: 0
+    maps:
+      - "all"
     display-name: '&bDiamond Chestplate'
     includes-item: 'true'
     includes-item-exact: 'true'
@@ -52,6 +58,8 @@ shop:
     slot: 3
     price: 0
     amount: 1
+    maps:
+      - "all"
     display-name: '&bDiamond Leggings'
     includes-item: 'true'
     includes-item-exact: 'true'
@@ -68,6 +76,8 @@ shop:
     slot: 4
     price: 0
     amount: 1
+    maps:
+      - "all"
     display-name: '&bDiamond Boots'
     includes-item: 'true'
     includes-item-exact: 'true'
@@ -86,6 +96,8 @@ shop:
     slot: 5
     amount: 16
     price: 0
+    maps:
+      - "all"
     display-name: '&fEnder Pearl'
     includes-item: 'true'
     includes-item-exact: 'false'
@@ -94,11 +106,30 @@ shop:
     enchantments: []
     item-flags: []
     commands: []
+  diamond_axe:
+    material: DIAMOND_AXE
+    slot: 17
+    amount: 1
+    price: 0
+    maps:
+      - "all"
+    display-name: '&bDiamond Axe'
+    includes-item: 'true'
+    includes-item-exact: 'true'
+    lore:
+      - '&aFREE'
+    enchantments:
+      - efficiency;8
+      - unbreaking;3
+    item-flags: []
+    commands: []
   cobblestone:
     material: COBBLESTONE
-    slot: 16
+    slot: 25
     amount: 64
     price: 0
+    maps:
+      - "all"
     display-name: '&fCobblestone'
     includes-item: 'true'
     includes-item-exact: 'false'
@@ -109,9 +140,11 @@ shop:
     commands: []
   oak_planks:
     material: OAK_PLANKS
-    slot: 17
+    slot: 26
     amount: 64
     price: 0
+    maps:
+      - "all"
     display-name: '&fOak Planks'
     includes-item: 'true'
     includes-item-exact: 'false'
@@ -125,6 +158,8 @@ shop:
     slot: 6
     amount: 64
     price: 0
+    maps:
+      - "all"
     display-name: '&fGolden Carrot'
     includes-item: 'true'
     includes-item-exact: 'false'
@@ -138,6 +173,8 @@ shop:
     slot: 7
     amount: 1
     price: 0
+    maps:
+      - "all"
     display-name: '&bDiamond Pickaxe'
     includes-item: 'true'
     includes-item-exact: 'true'
@@ -153,6 +190,8 @@ shop:
     slot: 8
     amount: 1
     price: 0
+    maps:
+      - "all"
     display-name: '&bDiamond Shovel'
     includes-item: 'true'
     includes-item-exact: 'true'
@@ -168,6 +207,8 @@ shop:
     slot: 9
     amount: 3
     price: 15
+    maps:
+      - "all"
     display-name: '&fCobweb'
     includes-item: 'true'
     includes-item-exact: 'false'
@@ -181,6 +222,8 @@ shop:
     slot: 10
     amount: 1
     price: 20
+    maps:
+      - "all"
     display-name: '&fSlow Falling'
     includes-item: 'true'
     includes-item-exact: 'true'
@@ -197,6 +240,8 @@ shop:
     slot: 11
     amount: 1
     price: 20
+    maps:
+      - "all"
     display-name: '&fSlowness'
     includes-item: 'true'
     includes-item-exact: 'true'
@@ -213,6 +258,8 @@ shop:
     slot: 18
     amount: 1
     price: 0
+    maps:
+      - "all"
     display-name: '&cHealth Potion'
     includes-item: 'true'
     includes-item-exact: 'true'
@@ -229,6 +276,8 @@ shop:
     slot: 19
     amount: 1
     price: 0
+    maps:
+      - "all"
     display-name: '&3Speed II'
     includes-item: 'true'
     includes-item-exact: 'true'
@@ -245,6 +294,8 @@ shop:
     slot: 20
     amount: 1
     price: 0
+    maps:
+      - "all"
     display-name: '&6Fire Resistance'
     includes-item: 'true'
     includes-item-exact: 'true'
@@ -261,6 +312,8 @@ shop:
     slot: 21
     amount: 1
     price: 10
+    maps:
+      - "all"
     display-name: '&dRegeneration'
     includes-item: 'true'
     includes-item-exact: 'true'

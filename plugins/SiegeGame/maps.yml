@@ -278,3 +278,373 @@ maps:
           z2: -16098
         territory:
           - "-8786, -16082, -8830, -16110"
+  iron_mountain:
+    worldname: 'iron_mountain1'
+    world-display-name: 'Siege of Iron Mountain'
+    super-items: []
+    defaultspawn:
+      x: -17279
+      y: 111
+      z: -7683
+    worldborder:
+      x1: -17333
+      y1: 100000
+      z1: -7644
+      x2: -17252
+      y2: -64
+      z2: -7728
+    teams:
+      american_union:
+        name: 'American Union'
+        color: '#694200'
+        safe-spawn:
+          x: -17293
+          y: 93
+          z: -7657
+          yaw: 180
+          pitch: 0
+        spawn-area:
+          x1: -17292
+          y1: 92
+          z1: -7660
+          x2: -17296
+          y2: 96
+          z2: -7657
+        territory:
+          - "-17280, -7655, -17310, -7670"
+      russia:
+        name: 'Russia'
+        color: '#420699'
+        safe-spawn:
+          x: -17300
+          y: 93
+          z: -7730
+          yaw: 0
+          pitch: 0
+        spawn-area:
+          x1: -17299
+          y1: 92
+          z1: -7729
+          x2: -17304
+          y2: 96
+          z2: -7732
+        territory:
+          - "-17315, -7736, -17280, -7713"
+  calgary:
+    worldname: 'calgary'
+    world-display-name: 'Siege of Calgary'
+    super-items: []
+    defaultspawn:
+      x: -13467
+      y: 5
+      z: -6006
+    worldborder:
+      x1: -13537
+      y1: 100000
+      z1: -5922
+      x2: -13308
+      y2: -64
+      z2: -6093
+    teams:
+      iroquois:
+        name: 'Cringe Forces'
+        color: '#694200'
+        safe-spawn:
+          x: -13533
+          y: 1
+          z: -6017
+          yaw: -90
+          pitch: 0
+        spawn-area:
+          x1: -13532
+          y1: 1
+          z1: -6019
+          x2: -13535
+          y2: 5
+          z2: -6016
+        territory:
+          - "-13504, -6095, -13542, -5964"
+      russia:
+        name: 'Russia'
+        color: '#420699'
+        safe-spawn:
+          x: -13390
+          y: 2
+          z: -6024
+          yaw: 90
+          pitch: 0
+        spawn-area:
+          x1: -13393
+          y1: 1
+          z1: -6024
+          x2: -13390
+          y2: 5
+          z2: -6027
+        territory:
+          - "-13413, -6012, -13360, -6038"
+  srdjanopole:
+    worldname: 'srdjanopole'
+    world-display-name: 'Siege of Srdjanopole'
+    super-items: []
+    defaultspawn:
+      x: 2762
+      y: 63
+      z: -4323
+    worldborder:
+      x1: 2821
+      y1: 100000
+      z1: -4372
+      x2: 2729
+      y2: -64
+      z2: -4268
+    teams:
+      serbia:
+        name: 'Serbia'
+        color: '#694200'
+        safe-spawn:
+          x: 2764
+          y: 63
+          z: -4354
+          yaw: 0
+          pitch: 0
+        spawn-area:
+          x1: 2766
+          y1: 62
+          z1: -4353
+          x2: 2762
+          y2: 65
+          z2: -4357
+        territory:
+          - "2752, -4358, 2784, -4335"
+      american_union:
+        name: 'American Union'
+        color: '#420699'
+        safe-spawn:
+          x: 2771
+          y: 63
+          z: -4270
+          yaw: -180
+          pitch: 0
+        spawn-area:
+          x1: 2769
+          y1: 62
+          z1: -4274
+          x2: 2773
+          y2: 65
+          z2: -4270
+        territory:
+          - "2752, -4288, 2789, -4266"
+  fort_yamdena:
+    worldname: 'fort_yamdena'
+    world-display-name: 'Siege of Fort Yamdena'
+    super-items: []
+    defaultspawn:
+      x: 15877
+      y: 67
+      z: 657
+    worldborder:
+      x1: 15787
+      y1: 100000
+      z1: 607
+      x2: 16000
+      y2: -64
+      z2: 752
+    teams:
+      american_union:
+        name: 'American_union'
+        color: '#694200'
+        safe-spawn:
+          x: 15922
+          y: 63
+          z: 672
+          yaw: 90
+          pitch: 0
+        spawn-area:
+          x1: 15919
+          y1: 62
+          z1: 674
+          x2: 15924
+          y2: 66
+          z2: 670
+        territory:
+          - "15903, 622, 16018, 715"
+      iroquois:
+        name: 'Iroquois'
+        color: '#420699'
+        safe-spawn:
+          x: 15839
+          y: 63
+          z: 671
+          yaw: -90
+          pitch: 0
+        spawn-area:
+          x1: 15839
+          y1: 62
+          z1: 668
+          x2: 15836
+          y2: 65
+          z2: 672
+        territory:
+          - "15904, 656, 15945, 688"
+          - "15920, 688, 15945, 708"
+          - "15923, 708, 15945, 715"
+          - "15932, 715, 15945, 720"
+          - "15920, 656, 15945, 634"
+  al_quds:
+    worldname: 'al_quds'
+    world-display-name: 'Siege of Al Quds'
+    super-items: []
+    defaultspawn:
+      x: 3971
+      y: 63
+      z: -3781
+    worldborder:
+      x1: 3906
+      y1: 100000
+      z1: -3662
+      x2: 4094
+      y2: -64
+      z2: -3890
+    teams:
+      american_union:
+        name: 'American Union'
+        color: '#694200'
+        safe-spawn:
+          x: 3999
+          y: 63
+          z: -3825
+          yaw: 0
+          pitch: 0
+        spawn-area:
+          x1: 4001
+          y1: 62
+          z1: -3825
+          x2: 3998
+          y2: 65
+          z2: -3828
+        territory:
+          - "3984, -3809, 4033, -3833"
+      volarys:
+        name: 'Volarys'
+        color: '#420699'
+        safe-spawn:
+          x: 4008
+          y: 63
+          z: -3728
+          yaw: -180
+          pitch: 0
+        spawn-area:
+          x1: 4006
+          y1: 62
+          z1: -3733
+          x2: 4010
+          y2: 66
+          z2: -3729
+        territory:
+          - "4000, -3760, 4015, -3725"
+          - "4015, -3725, 4047, -3743"
+          - "4015, -3725, 3984, -3743"
+  barcelona:
+    worldname: 'barcelona'
+    world-display-name: 'Siege of Barcelona'
+    super-items: []
+    defaultspawn:
+      x: -188
+      y: 93
+      z: -4771
+    worldborder:
+      x1: -130
+      y1: 100000
+      z1: -4818
+      x2: -234
+      y2: -64
+      z2: -4700
+    teams:
+      portugal:
+        name: 'Portugal'
+        color: '#694200'
+        safe-spawn:
+          x: -217
+          y: 94
+          z: -4759
+          yaw: -90
+          pitch: 0
+        spawn-area:
+          x1: -217
+          y1: 93
+          z1: -4761
+          x2: -221
+          y2: 97
+          z2: -4758
+        territory:
+          - "-206, -4780, -235, -4750"
+      american_union:
+        name: 'American Union'
+        color: '#420699'
+        safe-spawn:
+          x: -161
+          y: 93
+          z: -4761
+          yaw: 90
+          pitch: 0
+        spawn-area:
+          x1: -164
+          y1: 92
+          z1: -4759
+          x2: -160
+          y2: 95
+          z2: -4764
+        territory:
+          - "-176, -93, -140, -4816"
+  kansas_city_outpost:
+    worldname: 'kansas_city_outpost'
+    world-display-name: 'Siege of Kansas City'
+    super-items: []
+    defaultspawn:
+      x: -11808
+      y: 87
+      z: -4790
+    worldborder:
+      x1: -11784
+      y1: 100000
+      z1: -4700
+      x2: -11916
+      y2: -64
+      z2: -4870
+    teams:
+      wichita:
+        name: 'Wichita'
+        color: '#694200'
+        safe-spawn:
+          x: -11850
+          y: 84
+          z: -4834
+          yaw: 0
+          pitch: 0
+        spawn-area:
+          x1: -11849
+          y1: 83
+          z1: -4832
+          x2: -11853
+          y2: 86
+          z2: -4837
+        territory:
+          - "-11871, -4817, -11823, -4840"
+      american_union:
+        name: 'American Union'
+        color: '#420699'
+        safe-spawn:
+          x: -11852
+          y: 84
+          z: -4750
+          yaw: -180
+          pitch: 0
+        spawn-area:
+          x1: -11855
+          y1: 83
+          z1: -4749
+          x2: -11851
+          y2: 87
+          z2: -4753
+        territory:
+          - "-11825, -4769, -11871, -4737"
