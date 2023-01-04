@@ -7,3 +7,6 @@ logs/
 *_active_*/
 plugins/Matrix/config.yml
 plugins/Matrix_7.0.0_alpha08.jar
+plugins/Essentials/userdata/
+plugins/Essentials/usermap.csv
+usercache.json
