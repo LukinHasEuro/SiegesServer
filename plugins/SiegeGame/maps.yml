@@ -450,8 +450,8 @@ maps:
       y2: -64
       z2: 752
     teams:
-      american_union:
-        name: 'American_union'
+      iroquois:
+        name: 'Irouqois'
         color: '#694200'
         safe-spawn:
           x: 15922
@@ -468,8 +468,8 @@ maps:
           z2: 670
         territory:
           - "15903, 622, 16018, 715"
-      iroquois:
-        name: 'Iroquois'
+      american_union:
+        name: 'American Union'
         color: '#420699'
         safe-spawn:
           x: 15839
