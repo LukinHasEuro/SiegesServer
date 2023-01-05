@@ -9,4 +9,14 @@ plugins/Matrix/config.yml
 plugins/Matrix_7.0.0_alpha08.jar
 plugins/Essentials/userdata/
 plugins/Essentials/usermap.csv
+plugins/LuckPerms/libs/
+plugins/LuckPerms/translations/
+plugins/LuckPerms/editor-keystore.json
+plugins/ProtocolLib/lastupdate
+plugins/WorldEdit/sessions/
+plugins/WorldEdit/schematics/
+plugins/WorldEdit/.archive-unpack/
+plugins/TAB/placeholder-errors.log
 usercache.json
+abrir.bat
+*.db
