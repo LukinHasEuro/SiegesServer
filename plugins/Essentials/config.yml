@@ -162,16 +162,13 @@ notify-player-of-mail-cooldown: 60
 # To force essentials to take 'god' alias 'god' to 'egod'.
 # See http://wiki.bukkit.org/Commands.yml#aliases for more information.
 
-overridden-commands:
-#  - god
+overridden-commands: []
 #  - info
 
 # Disabling commands here will prevent Essentials handling the command, this will not affect command conflicts.
 # You should not have to disable commands used in other plugins, they will automatically get priority.
 # See http://wiki.bukkit.org/Commands.yml#aliases to map commands to other plugins.
-disabled-commands:
-#  - nick
-#  - clear
+disabled-commands: []
 
 # Whether or not Essentials should show detailed command usages.
 # If set to false, Essentials will collapse all usages in to one single usage message.
@@ -241,87 +238,7 @@ mute-commands:
 # These are the permissions without the "essentials." part.
 #
 # To enable this feature, please set use-bukkit-permissions to false.
-player-commands:
-  - afk
-  - afk.auto
-  - back
-  - back.ondeath
-  - balance
-  - balance.others
-  - balancetop
-  - build
-  - chat.color
-  - chat.format
-  - chat.shout
-  - chat.question
-  - clearinventory
-  - compass
-  - depth
-  - delhome
-  - getpos
-  - geoip.show
-  - help
-  - helpop
-  - home
-  - home.others
-  - ignore
-  - info
-  - itemdb
-  - kit
-  - kits.tools
-  - list
-  - mail
-  - mail.send
-  - me
-  - motd
-  - msg
-  - msg.color
-  - nick
-  - near
-  - pay
-  - ping
-  - protect
-  - r
-  - rules
-  - realname
-  - seen
-  - sell
-  - sethome
-  - setxmpp
-  - signs.create.protection
-  - signs.create.trade
-  - signs.break.protection
-  - signs.break.trade
-  - signs.use.balance
-  - signs.use.buy
-  - signs.use.disposal
-  - signs.use.enchant
-  - signs.use.free
-  - signs.use.gamemode
-  - signs.use.heal
-  - signs.use.info
-  - signs.use.kit
-  - signs.use.mail
-  - signs.use.protection
-  - signs.use.repair
-  - signs.use.sell
-  - signs.use.time
-  - signs.use.trade
-  - signs.use.warp
-  - signs.use.weather
-  - spawn
-  - suicide
-  - time
-  - tpa
-  - tpaccept
-  - tpahere
-  - tpdeny
-  - warp
-  - warp.list
-  - world
-  - worth
-  - xmpp
-
+player-commands: []
 # Use this option to force superperms-based permissions handler regardless of detected installed perms plugin.
 # This is useful if you want superperms-based permissions (with wildcards) for custom permissions plugins.
 # If you wish to use EssentialsX's built-in permissions using the `player-commands` section above, set this to false.

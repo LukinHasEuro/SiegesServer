@@ -26,6 +26,8 @@ groups:
     - ct
     - hub
     - msg
+    - kit
+    - kits
     subcommands: []
   moderator:
     commands:
