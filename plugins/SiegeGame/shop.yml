@@ -178,12 +178,19 @@ shop:
     display-name: '&bDiamond Pickaxe'
     includes-item: 'true'
     includes-item-exact: 'true'
+    custom-nbt:
+      - 'custom-properties;super-breaker'
     lore:
+      - '&f'
+      - '&6Includes Super Breaker'
+      - '&3Shift + Right Click'
+      - '&f'
       - '&aFREE'
     enchantments:
       - efficiency;5
       - unbreaking;3
-    item-flags: []
+    item-flags: 
+      - 'hide_attributes'
     commands: []
   diamond_shovel:
     material: DIAMOND_SHOVEL

@@ -16,6 +16,7 @@ plugins/Essentials/uuids.bin
 plugins/LuckPerms/libs/
 plugins/LuckPerms/translations/
 plugins/LuckPerms/editor-keystore.json
+plugins/LuckPerms/config.yml
 plugins/ProtocolLib/lastupdate
 plugins/WorldEdit/sessions/
 plugins/WorldEdit/schematics/
@@ -25,6 +26,7 @@ plugins/TAB/placeholder-errors.log
 usercache.json
 abrir.bat
 *.db
+plugins/CoreProtect/database.db
 map-color-cache.dat
 ops.json
 paper.yml-README.txt
