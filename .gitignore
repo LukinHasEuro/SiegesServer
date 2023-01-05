@@ -9,7 +9,10 @@ logs/
 plugins/Matrix/config.yml
 plugins/Matrix_7.0.0_alpha08.jar
 plugins/Essentials/userdata/
+plugins/Essentials/userdata-npc-backup/
 plugins/Essentials/usermap.csv
+plugins/Essentials/usermap.bin
+plugins/Essentials/uuids.bin
 plugins/LuckPerms/libs/
 plugins/LuckPerms/translations/
 plugins/LuckPerms/editor-keystore.json
@@ -17,6 +20,7 @@ plugins/ProtocolLib/lastupdate
 plugins/WorldEdit/sessions/
 plugins/WorldEdit/schematics/
 plugins/WorldEdit/.archive-unpack/
+plugins/PremiumVanish/data.yml
 plugins/TAB/placeholder-errors.log
 usercache.json
 abrir.bat
