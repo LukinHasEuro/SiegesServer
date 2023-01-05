@@ -16,6 +16,7 @@ plugins/Essentials/uuids.bin
 plugins/LuckPerms/libs/
 plugins/LuckPerms/translations/
 plugins/LuckPerms/editor-keystore.json
+plugins/LuckPerms/yaml-storage/
 plugins/LuckPerms/config.yml
 plugins/ProtocolLib/lastupdate
 plugins/WorldEdit/sessions/
