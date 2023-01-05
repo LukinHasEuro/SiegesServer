@@ -20,3 +20,13 @@ plugins/TAB/placeholder-errors.log
 usercache.json
 abrir.bat
 *.db
+map-color-cache.dat
+ops.json
+paper.yml-README.txt
+permissions.yml
+version_history.json
+whitelist.json
+banned-ips.json
+banned-players.json
+eula.txt
+.console_history
