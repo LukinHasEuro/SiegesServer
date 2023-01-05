@@ -290,9 +290,9 @@ maps:
       x1: -17333
       y1: 100000
       z1: -7644
-      x2: -17252
+      x2: -17256
       y2: -64
-      z2: -7728
+      z2: -7748
     teams:
       american_union:
         name: 'American Union'
@@ -351,7 +351,7 @@ maps:
         color: '#694200'
         safe-spawn:
           x: -13533
-          y: 1
+          y: 2
           z: -6017
           yaw: -90
           pitch: 0
@@ -363,7 +363,7 @@ maps:
           y2: 5
           z2: -6016
         territory:
-          - "-13504, -6095, -13542, -5964"
+          - "-13519, -6095, -13542, -5964"
       russia:
         name: 'Russia'
         color: '#420699'
@@ -381,15 +381,15 @@ maps:
           y2: 5
           z2: -6027
         territory:
-          - "-13413, -6012, -13360, -6038"
+          - "-13416, -6012, -13360, -6038"
   srdjanopole:
     worldname: 'srdjanopole'
     world-display-name: 'Siege of Srdjanopole'
     super-items: []
     defaultspawn:
-      x: 2762
-      y: 63
-      z: -4323
+      x: 2770
+      y: 64
+      z: -4310
     worldborder:
       x1: 2821
       y1: 100000
@@ -404,16 +404,16 @@ maps:
         safe-spawn:
           x: 2764
           y: 63
-          z: -4354
+          z: -4355
           yaw: 0
           pitch: 0
         spawn-area:
           x1: 2766
-          y1: 62
-          z1: -4353
+          y1: 65
+          z1: -4357
           x2: 2762
-          y2: 65
-          z2: -4357
+          y2: 62
+          z2: -4353
         territory:
           - "2752, -4358, 2784, -4335"
       american_union:
@@ -451,13 +451,13 @@ maps:
       z2: 752
     teams:
       iroquois:
-        name: 'Irouqois'
+        name: 'Iroquois'
         color: '#694200'
         safe-spawn:
-          x: 15922
+          x: 15837
           y: 63
-          z: 672
-          yaw: 90
+          z: 670
+          yaw: -90
           pitch: 0
         spawn-area:
           x1: 15919
@@ -467,15 +467,15 @@ maps:
           y2: 66
           z2: 670
         territory:
-          - "15903, 622, 16018, 715"
+          - "15856, 654, 15833, 692"
       american_union:
         name: 'American Union'
         color: '#420699'
         safe-spawn:
-          x: 15839
+          x: 15922
           y: 63
-          z: 671
-          yaw: -90
+          z: 672
+          yaw: 90
           pitch: 0
         spawn-area:
           x1: 15839
@@ -530,7 +530,7 @@ maps:
         safe-spawn:
           x: 4008
           y: 63
-          z: -3728
+          z: -3731
           yaw: -180
           pitch: 0
         spawn-area:
@@ -542,8 +542,8 @@ maps:
           z2: -3729
         territory:
           - "4000, -3760, 4015, -3725"
-          - "4015, -3725, 4047, -3743"
-          - "4015, -3725, 3984, -3743"
+          - "4015, -3725, 4047, -3744"
+          - "4015, -3725, 3984, -3744"
   barcelona:
     worldname: 'barcelona'
     world-display-name: 'Siege of Barcelona'
@@ -564,18 +564,18 @@ maps:
         name: 'Portugal'
         color: '#694200'
         safe-spawn:
-          x: -217
+          x: -219
           y: 94
-          z: -4759
+          z: -4761
           yaw: -90
           pitch: 0
         spawn-area:
           x1: -217
           y1: 93
-          z1: -4761
+          z1: -4758
           x2: -221
           y2: 97
-          z2: -4758
+          z2: -474761
         territory:
           - "-206, -4780, -235, -4750"
       american_union:
@@ -584,15 +584,15 @@ maps:
         safe-spawn:
           x: -161
           y: 93
-          z: -4761
+          z: -4760
           yaw: 90
           pitch: 0
         spawn-area:
-          x1: -164
-          y1: 92
+          x1: -160
+          y1: 95
           z1: -4759
-          x2: -160
-          y2: 95
+          x2: -164
+          y2: 92
           z2: -4764
         territory:
           - "-176, -93, -140, -4816"
@@ -629,7 +629,7 @@ maps:
           y2: 86
           z2: -4837
         territory:
-          - "-11871, -4817, -11823, -4840"
+          - "-11872, -4817, -11823, -4840"
       american_union:
         name: 'American Union'
         color: '#420699'

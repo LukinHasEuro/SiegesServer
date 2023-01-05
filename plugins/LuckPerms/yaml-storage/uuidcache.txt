@@ -1,2 +1,4 @@
 # LuckPerms UUID lookup cache
+5ea3dbd8-3aa8-3659-b780-650e2c8e16b8:DeltaOrion
+0b5a7597-bf5a-3b8f-ab6f-dfb5666f9c85:Reyko
 4fa42112-80a2-3f95-b049-ff9869d4b8a8:ceedric_
