@@ -2,6 +2,7 @@ libraries/
 world/
 world_nether/
 world_the_end/
+cache/
 plugins/CombatLogX/playerdata/
 logs/
 *_active_*/
