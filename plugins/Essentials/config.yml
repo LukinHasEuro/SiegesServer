@@ -162,7 +162,8 @@ notify-player-of-mail-cooldown: 60
 # To force essentials to take 'god' alias 'god' to 'egod'.
 # See http://wiki.bukkit.org/Commands.yml#aliases for more information.
 
-overridden-commands: []
+overridden-commands:
+  - msg
 #  - info
 
 # Disabling commands here will prevent Essentials handling the command, this will not affect command conflicts.
