@@ -169,7 +169,8 @@ overridden-commands:
 # Disabling commands here will prevent Essentials handling the command, this will not affect command conflicts.
 # You should not have to disable commands used in other plugins, they will automatically get priority.
 # See http://wiki.bukkit.org/Commands.yml#aliases to map commands to other plugins.
-disabled-commands: []
+disabled-commands: 
+- t
 
 # Whether or not Essentials should show detailed command usages.
 # If set to false, Essentials will collapse all usages in to one single usage message.
