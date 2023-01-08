@@ -21,6 +21,7 @@ filters:
       - \b(?i)(d+(\W|_)*(i)+(\W|_)*(c)+(\W|_)*k+)
       - \b(?i)(c+(\W|_)*(u)+(\W|_)*(n)+(\W|_)*t+)
       - kys
+      - kill yourself
   vip:
     permission: chat.vip
     replace-char: '*'
