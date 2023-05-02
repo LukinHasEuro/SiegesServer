@@ -24,6 +24,10 @@ plugins/WorldEdit/schematics/
 plugins/WorldEdit/.archive-unpack/
 plugins/PremiumVanish/data.yml
 plugins/TAB/placeholder-errors.log
+plugins/TAB/errors.log
+plugins/spark/activity.json
+plugins/SIR/data/ignore.yml
+plugins/HolographicDisplays/database.yml
 usercache.json
 abrir.bat
 *.db
